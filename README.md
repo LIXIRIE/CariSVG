@@ -1,0 +1,1 @@
+A SVG library for interaction. Visit http://ybochatay.fr/CariSVG for more information and full documentation.
